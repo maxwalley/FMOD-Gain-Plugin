@@ -9,7 +9,7 @@
 	<key>CustomBuildLocationType</key>
 	<string>Absolute</string>
 	<key>CustomBuildProductsPath</key>
-	<string>/Users/maxwalley/Library/Application Support/FMOD Studio/Plugins</string>
+	<string>/Users/maxwalley/Library/Application Support/FMOD Studio/Plugins/Gain</string>
 	<key>DerivedDataLocationStyle</key>
 	<string>Default</string>
 	<key>IssueFilterStyle</key>
